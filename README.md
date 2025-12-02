@@ -104,5 +104,3 @@ DNF - Luisa (#4)
 ✅ Podio salvato su file: podio.txt
 🎉 Gara terminata! 🎉
 ```
-
-Vuoi che proceda con quello adesso?
