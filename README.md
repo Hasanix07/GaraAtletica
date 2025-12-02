@@ -104,3 +104,7 @@ DNF - Luisa (#4)
 ✅ Podio salvato su file: podio.txt
 🎉 Gara terminata! 🎉
 ```
+
+##Crediti
+
+ho preso spunto per la progress bar da Aureliano Pizzoli, mi sono fatto aiutare da chatgpt per capire come mettere bene le emoji in modo "interattivo" con quello che succedeva (rallentamento,ritiro ecc.), riguardo alla scelta di non mettere solo la classifica ma anche il podio finale è stata una scelta presa oggi dopo aver visto che molti miei compagni hanno fatto cosi e risultava più carino. (avrei voluto fare anche la staffetta ma era un casino)
