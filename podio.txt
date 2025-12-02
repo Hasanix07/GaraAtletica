@@ -1,0 +1,4 @@
+1. francesco | Tempo: 19,0 s
+2. luisa | Tempo: 20,0 s
+3. pietro | Tempo: 20,0 s
+4. federico | Tempo: 21,0 s
